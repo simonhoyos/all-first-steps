@@ -1,0 +1,12 @@
+{
+  "name": "2203_puppeteer",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^13.5.1"
+  }
+}
